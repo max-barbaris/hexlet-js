@@ -2,7 +2,8 @@
   "homepage": "https://github.com/max-barbaris/hexlet-js",
   "bugs": {
     "url": "https://github.com/max-barbaris/hexlet-js/issues",
-    "email": "maksimrastoskuev@ya.ru" 
+    "email": "maksimrastoskuev@ya.ru"
+  },
   "name": "brain games",
   "version": "1.0.0",
   "type": "module",
@@ -12,5 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Maksim Rastoskuev",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
